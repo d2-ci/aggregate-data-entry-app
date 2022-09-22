@@ -3,7 +3,7 @@
   "name": "aggregate-data-entry",
   "type": "app",
   "title": "Data Entry (Beta)",
-  "minDHis2Version": "2.39",
+  "minDHIS2Version": "2.39",
   "coreApp": true,
   "version": "1.0.0",
   "description": ""
