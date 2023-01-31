@@ -40,15 +40,15 @@
         "enzyme-adapter-react-16": "1.15.7",
         "eslint-plugin-cypress": "2.12.1",
         "fake-indexeddb": "4.0.1",
-        "start-server-and-test": "1.15.2"
+        "start-server-and-test": "1.15.3"
     },
     "dependencies": {
         "@dhis2/app-runtime": "3.6.0",
         "@dhis2/ui": "8.6.0",
         "@dhis2/ui-forms": "7.16.3",
-        "@tanstack/react-query": "4.19.1",
-        "@tanstack/react-query-devtools": "4.19.1",
-        "@tanstack/react-query-persist-client": "4.19.1",
+        "@tanstack/react-query": "4.20.4",
+        "@tanstack/react-query-devtools": "4.20.4",
+        "@tanstack/react-query-persist-client": "4.20.4",
         "chart.js": "3.9.1",
         "classnames": "2.3.2",
         "expr-eval": "2.0.2",
