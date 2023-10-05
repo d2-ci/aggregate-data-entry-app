@@ -4,7 +4,7 @@
   "short_name": "aggregate-data-entry",
   "name": "Data Entry (Beta)",
   "description": "",
-  "version": "100.3.6",
+  "version": "100.3.7",
   "core_app": true,
   "launch_path": "index.html",
   "plugin_launch_path": "plugin.html",
@@ -17,7 +17,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Thu Oct 05 2023 14:25:48 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Oct 05 2023 14:52:16 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
