@@ -5,7 +5,8 @@
   "title": "Data Entry (Beta)",
   "minDHIS2Version": "2.39",
   "coreApp": true,
-  "version": "100.8.3",
+  "direction": "auto",
+  "version": "100.8.4",
   "description": "",
   "entryPoints": {
     "app": "index.html"
