@@ -4,7 +4,7 @@
   "short_name": "aggregate-data-entry",
   "name": "Data Entry",
   "description": "",
-  "version": "101.0.14",
+  "version": "101.0.15",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Wed May 28 2025 13:39:39 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Wed May 28 2025 13:48:18 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
