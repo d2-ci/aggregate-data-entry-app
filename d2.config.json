@@ -6,7 +6,7 @@
   "minDHIS2Version": "2.39",
   "coreApp": true,
   "direction": "auto",
-  "version": "101.0.16",
+  "version": "101.0.17",
   "description": "",
   "entryPoints": {
     "app": "index.html"
