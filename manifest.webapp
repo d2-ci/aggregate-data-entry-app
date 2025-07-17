@@ -2,12 +2,11 @@
   "app_hub_id": "4a5b87dc-015c-47db-ae77-f2f42e3bbb5a",
   "appType": "APP",
   "short_name": "aggregate-data-entry",
-  "name": "Data Entry (Beta)",
+  "name": "Data Entry",
   "description": "",
-  "version": "100.3.10",
+  "version": "101.0.18",
   "core_app": true,
   "launch_path": "index.html",
-  "plugin_launch_path": "plugin.html",
   "default_locale": "en",
   "activities": {
     "dhis": {
@@ -17,9 +16,8 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Jan 16 2024 14:56:41 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Jul 17 2025 23:44:13 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
-  "background_color": "#ffffff",
-  "scope": "."
+  "background_color": "#ffffff"
 }
