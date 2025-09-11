@@ -1,0 +1,23 @@
+{
+  "appType": "APP",
+  "short_name": "aggregate-data-entry-custom-forms",
+  "name": "Data Entry (Legacy Custom Forms beta)",
+  "description": "",
+  "version": "101.0.18",
+  "core_app": false,
+  "launch_path": "index.html",
+  "plugin_launch_path": "plugin.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "manifest_generated_at": "Thu Sep 11 2025 16:21:18 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}

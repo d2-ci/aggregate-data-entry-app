@@ -1,0 +1,14 @@
+{
+  "name": "aggregate-data-entry-custom-forms",
+  "type": "app",
+  "title": "Data Entry (Legacy Custom Forms beta)",
+  "minDHIS2Version": "2.39",
+  "coreApp": false,
+  "direction": "auto",
+  "version": "101.0.18",
+  "description": "",
+  "entryPoints": {
+    "app": "index.html",
+    "plugin": "plugin.html"
+  }
+}
