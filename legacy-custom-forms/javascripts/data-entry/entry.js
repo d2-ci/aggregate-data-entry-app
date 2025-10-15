@@ -52,11 +52,12 @@ dhis2.de.updateIndicators = function()
 
         if ( typeof formula !== 'undefined' )
         {        
-	        var expression = dhis2.de.generateExpression( formula?.explodedNumerator );
-
+	        var expression = dhis2.de.generateExpression( formula?.explodedNumerator);
+            var denominator = dhis2.de.generateExpression(formula?.denominator)
+            
 	        if ( expression )
 	        {
-		        var value = eval( expression );
+		        var value = eval( `(${expression}) / (${denominator})`);
 
 		        value = isNaN( value ) ? '-' : Math.round( value, 1 );
 		
