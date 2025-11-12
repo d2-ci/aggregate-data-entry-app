@@ -282,7 +282,7 @@ function ValueSaver( de, pe, co, ds, value, fieldId, resultColor )
         'pe' : pe,
         'value' : value,
         deId: de,
-        cocId: co
+        cocId: co,
     };
 
     var cc = dhis2.de.getCurrentCategoryCombo();
