@@ -185,7 +185,7 @@ function saveVal( dataElementId, optionComboId, fieldId, feedbackId )
         value = $(fieldId).val();
     }
 
-    $( feedbackId ).wrap( $('<div style="border: 0px solid red; position: relative" class="field-wrapper"></div>' ));
+    $( feedbackId ).wrap( $('<div style="position: relative; display:inline-block" class="field-wrapper"></div>' ));
 
     $( feedbackId ).parent('.field-wrapper').prepend('<div class="updating" style="position: absolute;inset-block-start: 0;inset-inline-end: 0;"><svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg" color="#4a5768"><path d="M3 7a1 1 0 110 2 1 1 0 010-2zm5 0a1 1 0 110 2 1 1 0 010-2zm5 0a1 1 0 110 2 1 1 0 010-2z" fill="currentColor" fill-rule="evenodd"></path></svg></div>')
     var periodId = $( '#selectedPeriodId' ).val();
