@@ -34,6 +34,10 @@
     "description": ""
   },
   {
+    "locale": "en_US",
+    "shortcuts": {}
+  },
+  {
     "locale": "es",
     "shortcuts": {}
   },
